@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>文件下载中心</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>📁 文件下载中心</h1>
+
+  <div style="margin-bottom: 10px;">
+    <label for="categoryFilter">📂 筛选分类：</label>
+    <select id="categoryFilter">
+      <option value="">全部</option>
+    </select>
+  </div>
+
+  <input type="text" id="searchBox" placeholder="🔍 输入关键词搜索文件..." />
+
+  <ul id="fileList"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>

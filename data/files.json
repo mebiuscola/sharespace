@@ -1,0 +1,14 @@
+[
+  {
+    "name": "example1.pdf",
+    "description": "这是第一个示例文件，用于演示 PDF 下载功能。",
+    "url": "files/example1.pdf",
+    "category": "文档"
+  },
+  {
+    "name": "example2.zip",
+    "description": "这是第二个示例文件，包含多个文档和资源。",
+    "url": "files/example2.zip",
+    "category": "压缩包"
+  }
+]
