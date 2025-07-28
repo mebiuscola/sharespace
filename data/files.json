@@ -1,14 +1,74 @@
 [
   {
-    "name": "example1.pdf",
-    "description": "这是第一个示例文件，用于演示 PDF 下载功能。",
-    "url": "files/example1.pdf",
-    "category": "文档"
+    "name": "360断网急救箱2.0",
+    "description": "修复由电脑设置导致的断网。",
+    "url": "files/360断网急救箱2.0.exe",
+    "category": "工具"
+  }, 
+  {
+    "name": "火绒工具提取",
+    "description": "垃圾清理、启动项管理、文件粉碎、右键管理。",
+    "url": "files/火绒工具提取.exe",
+    "category": "工具"
   },
   {
-    "name": "example2.zip",
-    "description": "这是第二个示例文件，包含多个文档和资源。",
-    "url": "files/example2.zip",
-    "category": "压缩包"
+    "name": "Foobar2000-2.24.5_x64_Asion汉化",
+    "description": "本地音乐播放器，兼容性极强，使用上有点不符合我的习惯，但只有它了。",
+    "url": "files/FB_2.24.5_x64_Asion.exe",
+    "category": "音乐"
+  },
+  {
+    "name": "foobox_x64.cn.v8.4-1.exe",
+    "description": "fb2k的美化，需先安装fb2k本体后再安装。",
+    "url": "files/foobox_x64.cn.v8.4-1.exe",
+    "category": "音乐"
+  },
+  {
+    "name": "MusicTag v1.0.9.0",
+    "description": "音乐标签，可以编辑音乐文件的专辑封面、艺术家、歌词等信息。",
+    "url": "files/MusicTag v1.0.9.0.exe",
+    "category": "音乐"
+  },
+  {
+    "name": "解锁音乐网页",
+    "description": "可以解锁ncm之类的付费音乐格式。",
+    "url": "files/解锁音乐网页.zip",
+    "category": "音乐"
+  },
+  {
+    "name": "香菇重命名v0.2",
+    "description": "批量重命名软件",
+    "url": "files/香菇重命名v0.2.zip",
+    "category": "工具"
+  },
+  {
+    "name": "FluentContextMenu_v0.5.0_beta",
+    "description": "让Win11的右键菜单全显示后仍保持相同风格。",
+    "url": "files/FluentContextMenu_v0.5.0_beta.zip",
+    "category": "工具"
+  },
+  {
+    "name": "IObitUninstaller.zip",
+    "description": "卸载软件，支持批量卸载和清理残留。",
+    "url": "files/IObitUninstaller.zip",
+    "category": "工具"
+  },
+  {
+    "name": "typora-0.9.9.0 beat 版-x64",
+    "description": "一款优雅的Markdown编辑器，应该是最后一个免费版本。",
+    "url": "files/typora-0.9.9.0 beat 版-x64.zip",
+    "category": "工具"
+  },
+  {
+    "name": "wallpaper壁纸提取工具与指令",
+    "description": "提取wallpaper engine的scene壁纸为mp4，需要预渲染。",
+    "url": "files/wallpaper壁纸提取工具与指令.zip",
+    "category": "工具"
+  } , 
+  {
+    "name": "FlashBrowser_x64_v1.1.1",
+    "description": "能玩4399等Flash游戏的浏览器，支持Flash插件。",
+    "url": "files/FlashBrowser_x64_v1.1.1.zip",
+    "category": "工具"
   }
 ]
